@@ -4,11 +4,7 @@
 
 ## Overview
 
-A Python-based project for generating and analyzing synthetic car sales data, featuring:
-- Realistic data simulation for Toyota car models
-- Exploratory data analysis
-- Predictive modeling using Linear Regression and Random Forest
-- Database integration with SQLAlchemy
+Our project analyzes various factors impacting Totoya Car Sales in New Jersey to effectively create a predictive model through synthetic data, exploratory data analysis, SQL databse, Linear Regression and Random Forest.  
 
 ## Key Features
 - Synthetic data generation
